@@ -1,4 +1,4 @@
-# Mirror Gate Language L — Recursive Symbolic NP Instance
+# NP = No Problem: We Built a Language That Only Accepts Reflections
 
 These scripts implement a constructive example of a language L ∈ NP  
 as described in Walecki (2025), “NP No Problem” — a symbolic reframe of the P vs NP structure.
